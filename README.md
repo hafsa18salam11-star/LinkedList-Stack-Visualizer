@@ -15,11 +15,11 @@ The visualizer supports four types of data structures — Singly Linked List, Do
 Every node also shows its memory address, which helps users understand how nodes are connected in memory.
 
 ## Built With
-- Java,
-- Data Structures,
+- Java
+- Data Structures
 - Object Oriented Programming.
 
 ## Team
 
-- Hafsa,
+- Hafsa
 - Aiman.
